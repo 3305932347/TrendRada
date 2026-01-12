@@ -280,7 +280,7 @@ ai_analysis:
   #   - gemini: Google Gemini
   #   - custom: 自定义 OpenAI 兼容接口（需填写完整 base_url）
   provider: "deepseek"              # 提供商
-  api_key: "AIzaSyCKfzTope-bENBTPAielqJ3WFAkSHO8owM"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
 
   model: "deepseek-chat"            # 模型名称
                                     # DeepSeek: deepseek-chat, deepseek-reasoner
